@@ -1,0 +1,9 @@
+.git
+.gitignore
+Dockerfile
+.dockerignore
+.eggs
+.github
+README.md
+*.egg-info
+.idea/
